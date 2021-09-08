@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2231c97-92bc-4651-b1d9-54a5d26b7d51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/AddPartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/AddPartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/AddProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/AddProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/MainScreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/MainScreenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/ModifyPartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ModifyPartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/ModifyProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/controller/ModifyProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/allclasses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/controller/AddPartController.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/controller/AddProductController.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/controller/MainScreenController.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/controller/ModifyPartController.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/controller/ModifyProductController.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/controller/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/controller/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index-files/index-9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jquery-3.5.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jszip/dist/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/main/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/main/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/main/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/member-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/model/InHouse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/model/Inventory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/model/Outsourced.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/model/Part.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/model/Product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/model/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/model/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/overview-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/package-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javadoc/type-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/InHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/InHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Outsourced.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/Outsourced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Part.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/Part.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/Product.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wV8oVemYDlDO3FJxjrf7vwSLF6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files/javafx-sdk-11.0.2/lib" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="C482" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2231c97-92bc-4651-b1d9-54a5d26b7d51" name="Changes" comment="" />
+      <created>1628532571944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628532571944</updated>
+      <workItem from="1628532573682" duration="1090000" />
+      <workItem from="1628533764000" duration="215000" />
+      <workItem from="1628534019251" duration="247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
